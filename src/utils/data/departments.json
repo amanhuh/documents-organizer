@@ -1,0 +1,36 @@
+{
+  "IT": {
+    "name": "information-technology",
+    "aliases": ["it"],
+    "displayName": "Information Technology",
+    "subjects": {
+      "1": [],
+      "2": [],
+      "3": [
+        {
+          "name": "data-structures",
+          "displayName": "Data Structures",
+          "aliases": ["dsa", "ds"]
+        },
+        {
+          "name": "python-programming",
+          "displayName": "Python Programming",
+          "aliases": ["python", "pp"]
+        },
+        {
+          "name": "computer-networks",
+          "displayName": "Computer Networks",
+          "aliases": ["cn"]
+        },
+        {
+          "name": "operating-systems",  
+          "displayName": "Operating Systems",
+          "aliases": ["os"]
+        }
+      ],
+      "4": [],
+      "5": [],
+      "6": []
+    }
+  }
+}
